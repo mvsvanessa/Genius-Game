@@ -1,0 +1,10 @@
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.csprojAssemblyReference.cache
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.Genius.resources
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.Properties.Resources.resources
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.csproj.GenerateResource.cache
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.csproj.CoreCompileInputs.cache
+C:\Users\casa\Source\Repos\GeniusGame\bin\Debug\GeniusGame.exe.config
+C:\Users\casa\Source\Repos\GeniusGame\bin\Debug\GeniusGame.exe
+C:\Users\casa\Source\Repos\GeniusGame\bin\Debug\GeniusGame.pdb
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.exe
+C:\Users\casa\Source\Repos\GeniusGame\obj\Debug\GeniusGame.pdb
